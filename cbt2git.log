@@ -1,0 +1,11 @@
+2023-08-06 08:32:56.399534 - Initialized conversion of CBT936
+2023-08-06 08:32:56.536225 - Received CBT.V505.FILE936.PDS from FILE936.XMI 
+2023-08-06 08:32:56.538299 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:32:56.539446 - Found $MEMBERS.txt (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/$MEMBERS
+2023-08-06 08:32:56.540442 - Found $README.txt (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/$README
+2023-08-06 08:32:56.541373 - Found @FILE936.txt (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/@FILE936
+2023-08-06 08:32:56.541383 - Found NAWK.bin containing application/octet-stream, moved to PDS/NAWK
+2023-08-06 08:32:56.543423 - Found NAWK1CAT.txt (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/NAWK1CAT
+2023-08-06 08:32:56.543432 - Found PAXFULL.x-compress containing application/x-compress, moved to PDS/PAXFULL
+2023-08-06 08:32:56.545647 - Found PAXLIST.txt (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/PAXLIST
+2023-08-06 08:32:56.546527 - Found UNPAX.jcl (text/plain) in CBT.V505.FILE936.PDS, moved to PDS/UNPAX
